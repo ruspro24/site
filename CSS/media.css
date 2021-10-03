@@ -1,0 +1,283 @@
+@media(max-width:1880px)
+{
+
+
+nav ul
+{
+   margin-left: -500px;
+}
+
+.logo 
+{
+     margin-left: -1250px;
+}
+
+.zaiti button
+{
+margin-left: 50px;
+}
+
+header
+{ 
+    max-width: 1280px;
+    height: 100vh;
+}
+
+h1
+{
+font-size: 40px;
+line-height: 1.4;
+margin-left: 150px;
+margin-top:40px;
+}
+
+.time
+{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.down
+{
+    
+    max-width: 1880px;
+    height: 100px;
+    margin-top: 550px;
+}
+.zakaz button
+{
+    margin-left: -500px;;
+}
+.text p
+{
+    margin-left: -300px;
+
+}
+
+.num p
+{
+    margin-left: -100px;
+}
+
+.don 
+{
+    width: 514px;
+    height: 47px;
+    margin-left: -50px;
+}
+
+#portfolio img
+{
+    width: 326px;
+    height: 299px;
+    margin-left: -500px;
+    margin-top: 100px;
+    margin-right: 50px;
+}
+
+#portfolio h2
+{
+    font-size: 30px;
+}
+#portfolio p
+{
+    font-size: 12px;
+    width: 380px;
+    height: 180px;
+}
+
+
+#portfolio1 img
+{
+    width: 100px;
+    height: 100px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+#portfolio1 h2
+{
+    margin-top: 100px;
+}
+
+#portfolio1 p
+{
+    margin-left: 167px;
+}
+
+.bol p
+{
+
+    margin-left: 67px;
+    margin-top: 25px;
+}
+.st h2
+{
+    margin-left: 62px;  
+}
+
+.sp h2
+{
+    margin-left: 140px;
+}
+
+.pt h2
+{
+    margin-left: 160px;
+}
+
+.itog 
+{
+    margin-left: 160px;
+}
+
+.rec
+{
+
+   margin-left: 162px;
+    margin-top: 20px;
+ 
+} 
+.pr 
+{
+    margin-left: 100px;
+}
+.nads
+{
+    margin-left: 162px;
+}  
+.nads p
+{
+    width: 206px;
+    height: 88px;   
+}
+
+.r1 img
+{
+    width: 224px;
+    height: 80px; 
+}
+
+.r2 img
+{
+    width: 224px;
+    height: 60px; 
+}
+
+.r3 img
+{
+    width: 224px;
+    height: 30px; 
+}
+
+.r4 img 
+{
+    width: 224px;
+    height: 10px; 
+}
+.pol h2
+{
+    text-align: left;
+    margin-left: 220px;
+}
+
+.ic
+{
+    margin-left: -1000px;
+    margin-bottom: 60px;
+}
+
+.i1 
+{
+    width: 100px;
+    height: 100px;
+    margin-left: 340px;
+}
+
+.nadp 
+{
+    margin-left: -810px;
+
+}
+
+.nadp1 h2
+{
+
+    margin-left: 170px;
+}
+
+.bl
+{
+    margin-left: -800px;
+    margin-bottom: 200px;
+}
+
+.bl1
+{
+
+    margin-left: 160px;
+    width:300px;
+}
+
+#portfolio2 img
+{
+    width: 100px;
+    height: 100px;
+    margin-left: 167px;
+}
+
+
+
+.msi
+{
+    max-width: 1400px;
+    margin-left: -80px;
+    margin-bottom: 200px;
+}
+
+.msi img
+{
+    width: 158px;
+    height: 63px;
+}
+
+.circle2 img
+{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 50px;
+    margin: 0;
+
+    margin-left: 590px;
+}
+
+.progr h2
+{
+    
+    margin-left: -600px;
+}
+
+.boli p
+{
+    margin-left: -600px;
+}
+
+.pro 
+{
+   margin-left: -600px;
+}
+
+#portfolio2 img
+{
+
+    margin-left: 67px;
+}
+
+.photo
+{
+    margin-left: -370px;
+}
+.foot
+{
+margin-left: -600px;
+}
+
+}
