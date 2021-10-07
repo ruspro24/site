@@ -286,7 +286,7 @@ header li a:hover
 {
     width: 127px;
     height: 127px;
-    margin-left: 293px;
+    /* margin-left: 15vw; */
     margin-top: 200px;
 }
 
@@ -304,7 +304,8 @@ header li a:hover
     display: flex;
     flex-direction: row;
     justify-content: left;
-    align-items: center; 
+    align-items: center;
+    margin-left: 15%; 
 }
 
 .bol p
@@ -313,7 +314,7 @@ header li a:hover
     line-height: 1.6;
     color: #FFFFFF;
     opacity: 0.5;
-    margin-left: 317px;
+    margin-left: 17%;
     margin-top: 25px;
 }
 
@@ -325,6 +326,7 @@ header li a:hover
     align-items: center;
     margin-top: 80px;
     font-size: 30px;
+    margin-left: 17%;
 }
 
 .pr h2
@@ -338,7 +340,7 @@ header li a:hover
 
 .st h2
 {
-    margin-left: 312px;  
+    /* margin-left: 17%;   */
 }
 
 .sp h2
@@ -362,7 +364,7 @@ header li a:hover
     flex-direction: row;
     justify-content: left;
     align-items: center;
-   margin-left: 312px;
+    margin-left: 17%;
     margin-top: 20px;
  
 } 
@@ -397,7 +399,7 @@ header li a:hover
     flex-direction: row;
     justify-content: left;
     align-items: center;
-    margin-left: 312px;
+    margin-left: 17%;
     margin-top: 35px;
     margin-bottom: 200px; 
 }  
