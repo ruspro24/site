@@ -8,7 +8,7 @@
 {
     body
     {
-        transform: scale(0.99);
+        transform: scaleX(0.99);
         transform-origin: left top;
         width: calc(100%/0.99);
         height: calc(100%/0.99);
@@ -26,7 +26,7 @@
 {
     body
     {
-        transform: scale(0.98);
+        transform: scaleX(0.98);
         transform-origin: left top;
         width: calc(100%/0.98);
         height: calc(100%/0.98);
@@ -44,7 +44,7 @@
 {
     body
     {
-        transform: scale(0.97);
+        transform: scaleX(0.97);
         transform-origin: left top;
         width: calc(100%/0.97);
         height: calc(100%/0.97);
@@ -62,7 +62,7 @@
 {
     body
     {
-        transform: scale(0.96);
+        transform: scaleX(0.96);
         transform-origin: left top;
         width: calc(100%/0.96);
         height: calc(100%/0.96);
@@ -80,7 +80,7 @@
 {
     body
     {
-        transform: scale(0.95);
+        transform: scaleX(0.95);
         transform-origin: left top;
         width: calc(100%/0.95);
         height: calc(100%/0.95);
@@ -99,7 +99,7 @@
 {
     body
     {
-        transform: scale(0.94);
+        transform: scaleX(0.94);
         transform-origin: left top;
         width: calc(100%/0.94);
         height: calc(100%/0.94);
@@ -117,7 +117,7 @@
 {
     body
     {
-        transform: scale(0.93);
+        transform: scaleX(0.93);
         transform-origin: left top;
         width: calc(100%/0.93);
         height: calc(100%/0.93);
@@ -135,7 +135,7 @@
 {
     body
     {
-        transform: scale(0.92);
+        transform: scaleX(0.92);
         transform-origin: left top;
         width: calc(100%/0.92);
         height: calc(100%/0.92);
@@ -153,7 +153,7 @@
 {
     body
     {
-        transform: scale(0.91);
+        transform: scaleX(0.91);
         transform-origin: left top;
         width: calc(100%/0.91);
         height: calc(100%/0.91);
@@ -171,7 +171,7 @@
 {
     body
     {
-        transform: scale(0.9);
+        transform: scaleX(0.9);
         transform-origin: left top;
         width: calc(100%/0.9);
         height: calc(100%/0.9);
@@ -189,7 +189,7 @@
 {
     body
     {
-        transform: scale(0.89);
+        transform: scaleX(0.89);
         transform-origin: left top;
         width: calc(100%/0.89);
         height: calc(100%/0.89);
@@ -207,7 +207,7 @@
     {
         body
         {
-            transform: scale(0.88);
+            transform: scaleX(0.88);
             transform-origin: left top;
             width: calc(100%/0.88);
             height: calc(100%/0.88);
@@ -217,7 +217,7 @@
 }
 @media(max-width:1660px)
 {
-    body
+    bodyx
     {     
         zoom: 87%;
     }
@@ -225,7 +225,7 @@
     {
         body
         {
-            transform: scale(0.87);
+            transform: scaleX(0.87);
             transform-origin: left top;
             width: calc(100%/0.87);
             height: calc(100%/0.87);
@@ -243,7 +243,7 @@
     {
         body
         {
-            transform: scale(0.86);
+            transform: scaleX(0.86);
             transform-origin: left top;
             width: calc(100%/0.86);
             height: calc(100%/0.86);
@@ -262,7 +262,7 @@
     {
         body
         {
-            transform: scale(0.85);
+            transform: scaleX(0.85);
             transform-origin: left top;
             width: calc(100%/0.85);
             height: calc(100%/0.85);
@@ -280,7 +280,7 @@
     {
         body
         {
-            transform: scale(0.84);
+            transform: scaleX(0.84);
             transform-origin: left top;
             width: calc(100%/0.84);
             height: calc(100%/0.84);
@@ -298,7 +298,7 @@
     {
         body
         {
-            transform: scale(0.83);
+            transform: scaleX(0.83);
             transform-origin: left top;
             width: calc(100%/0.83);
             height: calc(100%/0.83);
@@ -316,7 +316,7 @@
     {
         body
         {
-            transform: scale(0.82);
+            transform: scaleX(0.82);
             transform-origin: left top;
             width: calc(100%/0.82);
             height: calc(100%/0.82);
@@ -334,7 +334,7 @@
     {
         body
         {
-            transform: scale(0.81);
+            transform: scaleX(0.81);
             transform-origin: left top;
             width: calc(100%/0.81);
             height: calc(100%/0.81);
@@ -352,7 +352,7 @@
     {
         body
         {
-            transform: scale(0.8);
+            transform: scaleX(0.8);
             transform-origin: left top;
             width: calc(100%/0.8);
             height: calc(100%/0.8);
@@ -370,7 +370,7 @@
     {
         body
         {
-            transform: scale(0.79);
+            transform: scaleX(0.79);
             transform-origin: left top;
             width: calc(100%/0.79);
             height: calc(100%/0.79);
@@ -388,7 +388,7 @@
     {
         body
         {
-            transform: scale(0.78);
+            transform: scaleX(0.78);
             transform-origin: left top;
             width: calc(100%/0.78);
             height: calc(100%/0.78);
@@ -406,7 +406,7 @@
     {
         body
         {
-            transform: scale(0.77);
+            transform: scaleX(0.77);
             transform-origin: left top;
             width: calc(100%/0.77);
             height: calc(100%/0.77);
@@ -424,7 +424,7 @@
     {
         body
         {
-            transform: scale(0.76);
+            transform: scaleX(0.76);
             transform-origin: left top;
             width: calc(100%/0.76);
             height: calc(100%/0.76);
@@ -442,7 +442,7 @@
     {
         body
         {
-            transform: scale(0.75);
+            transform: scaleX(0.75);
             transform-origin: left top;
             width: calc(100%/0.75);
             height: calc(100%/0.75);
@@ -460,7 +460,7 @@
     {
         body
         {
-            transform: scale(0.74);
+            transform: scaleX(0.74);
             transform-origin: left top;
             width: calc(100%/0.74);
             height: calc(100%/0.74);
@@ -468,21 +468,22 @@
         }
     }
 }
-@media(max-width:1380px)
+@media (max-width:1380px)
 {
     body
     {     
-        zoom: 73%;
+        zoom:73%;
+        
     }
     @-moz-document url-prefix()
     {
         body
         {
-            transform: scale(0.73);
+            transform: scaleX(0.73);
             transform-origin: left top;
             width: calc(100%/0.73);
             height: calc(100%/0.73);
-            max-height: 1000px;
+             max-height: 1000px; 
         }
     }
 }
@@ -496,14 +497,14 @@
     {
         body
         {
-            transform: scale(0.72);
+            transform: scaleX(0.72);
             transform-origin: left top;
             width: calc(100%/0.72);
             height: calc(100%/0.72);
             max-height: 1000px;
         }
     }
-}
+} 
 @media(max-width:1340px)
 {
     body
@@ -514,7 +515,7 @@
     {
         body
         {
-            transform: scale(0.71);
+            transform: scaleX(0.71);
             transform-origin: left top;
             width: calc(100%/0.71);
             height: calc(100%/0.71);
@@ -532,7 +533,7 @@
     {
         body
         {
-            transform: scale(0.7);
+            transform: scaleX(0.7);
             transform-origin: left top;
             width: calc(100%/0.7);
             height: calc(100%/0.7);
@@ -550,7 +551,7 @@
     {
         body
         {
-            transform: scale(0.69);
+            transform: scaleX(0.69);
             transform-origin: left top;
             width: calc(100%/0.69);
             height: calc(100%/0.69);
@@ -568,7 +569,7 @@
     {
         body
         {
-            transform: scale(0.68);
+            transform: scaleX(0.68);
             transform-origin: left top;
             width: calc(100%/0.68);
             height: calc(100%/0.68);
@@ -586,7 +587,7 @@
     {
         body
         {
-            transform: scale(0.67);
+            transform: scaleX(0.67);
             transform-origin: left top;
             width: calc(100%/0.67);
             height: calc(100%/0.67);
@@ -604,7 +605,7 @@
     {
         body
         {
-            transform: scale(0.66);
+            transform: scaleX(0.66);
             transform-origin: left top;
             width: calc(100%/0.66);
             height: calc(100%/0.66);
@@ -623,7 +624,7 @@
     {
         body
         {
-            transform: scale(0.65);
+            transform: scaleX(0.65);
             transform-origin: left top;
             width: calc(100%/0.65);
             height: calc(100%/0.65);
@@ -641,7 +642,7 @@
     {
         body
         {
-            transform: scale(0.64);
+            transform: scaleX(0.64);
             transform-origin: left top;
             width: calc(100%/0.64);
             height: calc(100%/0.64);
@@ -659,7 +660,7 @@
     {
         body
         {
-            transform: scale(0.63);
+            transform: scaleX(0.63);
             transform-origin: left top;
             width: calc(100%/0.63);
             height: calc(100%/0.63);
@@ -677,7 +678,7 @@
     {
         body
         {
-            transform: scale(0.62);
+            transform: scaleX(0.62);
             transform-origin: left top;
             width: calc(100%/0.62);
             height: calc(100%/0.62);
@@ -695,7 +696,7 @@
     {
         body
         {
-            transform: scale(0.61);
+            transform: scaleX(0.61);
             transform-origin: left top;
             width: calc(100%/0.61);
             height: calc(100%/0.61);
@@ -713,7 +714,7 @@
     {
         body
         {
-            transform: scale(0.6);
+            transform: scaleX(0.6);
             transform-origin: left top;
             width: calc(100%/0.6);
             height: calc(100%/0.6);
@@ -731,7 +732,7 @@
     {
         body
         {
-            transform: scale(0.59);
+            transform: scaleX(0.59);
             transform-origin: left top;
             width: calc(100%/0.59);
             height: calc(100%/0.59);
@@ -749,7 +750,7 @@
     {
         body
         {
-            transform: scale(0.58);
+            transform: scaleX(0.58);
             transform-origin: left top;
             width: calc(100%/0.58);
             height: calc(100%/0.58);
@@ -767,7 +768,7 @@
     {
         body
         {
-            transform: scale(0.57);
+            transform: scaleX(0.57);
             transform-origin: left top;
             width: calc(100%/0.57);
             height: calc(100%/0.57);
@@ -785,7 +786,7 @@
     {
         body
         {
-            transform: scale(0.56);
+            transform: scaleX(0.56);
             transform-origin: left top;
             width: calc(100%/0.56);
             height: calc(100%/0.56);
@@ -803,7 +804,7 @@
     {
         body
         {
-            transform: scale(0.55);
+            transform: scaleX(0.55);
             transform-origin: left top;
             width: calc(100%/0.55);
             height: calc(100%/0.55);
@@ -821,7 +822,7 @@
     {
         body
         {
-            transform: scale(0.54);
+            transform: scaleX(0.54);
             transform-origin: left top;
             width: calc(100%/0.54);
             height: calc(100%/0.54);
